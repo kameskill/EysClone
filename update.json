@@ -1,10 +1,10 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6NiwiaXNzdWVkQXQiOjE3OTExMjM5NDgsImV4cGlyZXNBdCI6MTc5MTcyODc0OCwibGF0ZXN0VmVyc2lvbiI6IjEuMy4xMyIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjEzIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6YXRpb24gYW5kIG1vcmUuIn0",
-  "signature": "ANBIZ6OxM3ND4_n7sG1nXcXB7h2Glvwr_FvjHtjMk6BrYFHeaoiYl5fKcTGz5qivBl0iW7x2MrkTyOnYPZkSSw",
-  "version": "1.3.13",
-  "latestVersion": "1.3.13",
+  "payload": "eyJzZXF1ZW5jZSI6NywiaXNzdWVkQXQiOjE3OTExMzYyNjEsImV4cGlyZXNBdCI6MTc5MTc0MTA2MSwibGF0ZXN0VmVyc2lvbiI6IjEuMy4xNCIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjEzIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6ZWQgdGhlIHJvdGF0aW5nIGlzc3VlIGFuZCBtb3JlISJ9",
+  "signature": "9RoJmJufPripNpZlpLK987DHtjiEssRrLVtFc_q75boiXQUg7Fb-OTd1DABvR19DtWg84gHwrNaGM4OzJsYc1A",
+  "version": "1.3.14",
+  "latestVersion": "1.3.14",
   "minimumSupportedVersion": "1.3.13",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
-  "notes": "Optimization and more."
+  "notes": "Optimized the rotating issue and more!"
 }

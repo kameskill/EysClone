@@ -1,9 +1,9 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6NSwiaXNzdWVkQXQiOjE3OTExMjM3OTksImV4cGlyZXNBdCI6MTc5MTcyODU5OSwibGF0ZXN0VmVyc2lvbiI6IjEuMy4xNCIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjEzIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6YXRpb24gYW5kIG1vcmUuIn0",
-  "signature": "Y91V_n4aytBLCHYqTH39Lu8Mw4Rr5b-ATnr0amX9nJgjEFqz3nVXgG8_n5KTNU-OuMP-PkguCyMUfLSYN_xUDw",
-  "version": "1.3.14",
-  "latestVersion": "1.3.14",
+  "payload": "eyJzZXF1ZW5jZSI6NiwiaXNzdWVkQXQiOjE3OTExMjM5NDgsImV4cGlyZXNBdCI6MTc5MTcyODc0OCwibGF0ZXN0VmVyc2lvbiI6IjEuMy4xMyIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjEzIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6YXRpb24gYW5kIG1vcmUuIn0",
+  "signature": "ANBIZ6OxM3ND4_n7sG1nXcXB7h2Glvwr_FvjHtjMk6BrYFHeaoiYl5fKcTGz5qivBl0iW7x2MrkTyOnYPZkSSw",
+  "version": "1.3.13",
+  "latestVersion": "1.3.13",
   "minimumSupportedVersion": "1.3.13",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
   "notes": "Optimization and more."

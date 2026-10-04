@@ -1,5 +1,1 @@
-{
-  "version": "1.4.0",
-  "downloadUrl": "https://github.com/kameskill/EysClone/releases/latest",
-  "notes": "Check Update"
-}
+{"keyId":"eys-update-1","payload":"ewogICJzZXF1ZW5jZSI6IDIsCiAgImlzc3VlZEF0IjogMTc5MTExMzQ0NywKICAiZXhwaXJlc0F0IjogMTc5MTcxODI0NywKICAibGF0ZXN0VmVyc2lvbiI6ICIxLjMuMTAiLAogICJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6ICIxLjMuOCIsCiAgImRvd25sb2FkVXJsIjogImh0dHBzOi8vZGlzY29yZC5nZy9FczJ6amdNRVEiLAogICJub3RlcyI6ICJTdG9yYWdlIGVuZ2luZSBzdGFydHVwIHJlcGFpciwgRXlzQ2xvbmUgZm9sZGVyIG1pZ3JhdGlvbiBhbmQgY2xlYXJlciB1cGRhdGUgbm90aWNlcy4iCn0K","signature":"6cPgeCvmfhen1tS3vQJUFfB6WJ4eU0HeDCyL5TQWmeAG8c-8dXXgznYamIg1CteE8BodOs_xowXfY7gIEIIr7w","latestVersion":"1.3.10","minimumSupportedVersion":"1.3.8","downloadUrl":"https://discord.gg/Es2zjgMEQ","version":"1.3.10","notes":"Storage engine startup repair, EysClone folder migration and clearer update notices."}

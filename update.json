@@ -1,10 +1,10 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6OCwiaXNzdWVkQXQiOjE3OTExNDI0MjMsImV4cGlyZXNBdCI6MTc5MTc0NzIyMywibGF0ZXN0VmVyc2lvbiI6IjEuMy4xNyIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjE0IiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6ZWQgdGhlIHJvdGF0aW5nIGlzc3VlIGFuZCBtb3JlISJ9",
-  "signature": "GOUwBfozTcJDNEnVoGxCsgRe5efcLxNLED0oA3KV_A5v3goDb2PsN9uQcumj-sAbV2QVjK0EzTf-B5zaW01oAw",
-  "version": "1.3.17",
-  "latestVersion": "1.3.17",
+  "payload": "eyJzZXF1ZW5jZSI6OSwiaXNzdWVkQXQiOjE3OTExNDM5NDgsImV4cGlyZXNBdCI6MTc5MTc0ODc0OCwibGF0ZXN0VmVyc2lvbiI6IjEuMy4xOCIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS4zLjE0IiwiZG93bmxvYWRVcmwiOiJodHRwczovL2Rpc2NvcmQuZ2cvRXMyempnTUVRIiwibm90ZXMiOiJPcHRpbWl6ZWQgdGhlIGFwcCBhbmQgZml4ZWQgdGhlIHJvdGF0YXRpb24gcHJldmlldyBpc3N1ZS4ifQ",
+  "signature": "j1_6yoCsXhyt2uG1AGEu1dR2AcdoGxlWHy2YwkgTOAA3owDhjS0BwJ62k-aY41AsLq5nP-Qyt3DxxNBnxvhCvQ",
+  "version": "1.3.18",
+  "latestVersion": "1.3.18",
   "minimumSupportedVersion": "1.3.14",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
-  "notes": "Optimized the rotating issue and more!"
+  "notes": "Optimized the app and fixed the rotatation preview issue."
 }

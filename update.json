@@ -1,10 +1,10 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6MTAsImlzc3VlZEF0IjoxNzkxMTgwOTgzLCJleHBpcmVzQXQiOjE3OTE3ODU3ODMsImxhdGVzdFZlcnNpb24iOiIxLjMuMjEiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4xOCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEltcHJvdmVkIFJvYmxveCBhdXRvLXJlam9pbiBhZnRlciBuZXR3b3JrIGNoYW5nZXMsIHdpdGggc3RhZ2dlcmVkIHJlc3RhcnRzLiBcdTIwMjIgQWRkZWQgZGFzaGJvYXJkIGxvZ3MgZm9yIHJlY29ubmVjdHMsIHJlc3RhcnRzLCBjcmFzaGVzIGFuZCByZWNvdmVyeSBhY3Rpdml0eS4gXHUyMDIyIEFkZGVkIHByZXZpZXcgcmVmcmVzaCBtb2RlczogTGl2ZSwgQmFsYW5jZWQsIFBvd2VyIHNhdmluZyBhbmQgTG93LiBcdTIwMjIgUmVkdWNlZCBwcmV2aWV3LWNvcHkgd29yayBpbiBzYXZpbmcgbW9kZXMgd2hpbGUga2VlcGluZyBjb250cm9scyBhY3RpdmUuIFx1MjAyMiBLZXB0IGF1dG9jbGlja2VyIHRhcmdldCBwb3NpdGlvbnMgc3RhYmxlIHdoZW4gY2hhbmdpbmcgcmVmcmVzaCByYXRlcyBvciByZXN0YXJ0aW5nIGEgY2xvbmUgaW4gQ29udHJvbCBtb2RlLiBcdTIwMjIgRnVsbHNjcmVlbiBhdXRvbWF0aWNhbGx5IHJlc3RvcmVzIGxpdmUgcmVmcmVzaC4gXHUyMDIyIEFkZGVkIGhvc3QgQ1BVIHVzYWdlLCBwcmV2aWV3IHVwZGF0ZSByYXRlIGFuZCBwaXhlbC1jb3B5IHJlYWRpbmdzIHRvIGhlbHAgY29tcGFyZSBwZXJmb3JtYW5jZS4ifQ",
-  "signature": "DmPfs6CymwDNHRjlLIDsmitHEGFNE79EKL3Qc-aBBx_T4Em54Ate-4bT8InBXo_hJI40VAkPUwAlplXn0yyZnw",
-  "version": "1.3.21",
-  "latestVersion": "1.3.21",
-  "minimumSupportedVersion": "1.3.18",
+  "payload": "eyJzZXF1ZW5jZSI6MTEsImlzc3VlZEF0IjoxNzkxMTg4MDcwLCJleHBpcmVzQXQiOjE3OTE3OTI4NzAsImxhdGVzdFZlcnNpb24iOiIxLjMuMjQiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4yMSIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEFkZGVkIHN1cHBvcnQgZm9yIFZJUCsgYW5kIFZWSVAgc3Vic2NyaXB0aW9ucy5cblx1MjAyMiBSZXN0b3JlZCBob3N0LWRldmljZSBpZGVudGl0eSByZWFkaW5ncyB3aGVyZSBBbmRyb2lkIHBlcm1pdHMgdGhlbS5cblx1MjAyMiBBZGRlZCByZWxlYXNlIG5vdGVzIHRvIHRoZSByZXF1aXJlZC11cGRhdGUgc2NyZWVuLlxuXG5JbnN0YWxsIHRoZSB1cGRhdGVkIEFQSyBvdmVyIHlvdXIgZXhpc3RpbmcgYXBwIHRvIGtlZXAgeW91ciBjbG9uZXMgYW5kIGRhdGEuIFN0b3AgcnVubmluZyBzZXNzaW9ucyBiZWZvcmUgdXBkYXRpbmcuIn0",
+  "signature": "4DpaSS5UBdxOCZiGnlt7UzidQ87NVPvV3j8upXrGu5efiNVaW065lf10yadbsN6XHdcEr9Tmx0YY7kQgfvGQsg",
+  "version": "1.3.24",
+  "latestVersion": "1.3.24",
+  "minimumSupportedVersion": "1.3.21",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
-  "notes": "• Improved Roblox auto-rejoin after network changes, with staggered restarts. • Added dashboard logs for reconnects, restarts, crashes and recovery activity. • Added preview refresh modes: Live, Balanced, Power saving and Low. • Reduced preview-copy work in saving modes while keeping controls active. • Kept autoclicker target positions stable when changing refresh rates or restarting a clone in Control mode. • Fullscreen automatically restores live refresh. • Added host CPU usage, preview update rate and pixel-copy readings to help compare performance."
+  "notes": "• Added support for VIP+ and VVIP subscriptions.\n• Restored host-device identity readings where Android permits them.\n• Added release notes to the required-update screen.\n\nInstall the updated APK over your existing app to keep your clones and data. Stop running sessions before updating."
 }

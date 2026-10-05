@@ -1,10 +1,10 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6MTIsImlzc3VlZEF0IjoxNzkxMTkzMTA1LCJleHBpcmVzQXQiOjE3OTE3OTc5MDUsImxhdGVzdFZlcnNpb24iOiIxLjMuMjUiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4yNCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEltcHJvdmVkIHByZXZpZXcgcmVzdG9yYXRpb24gd2hlbiBzd2l0Y2hpbmcgYmV0d2VlbiBmdWxsc2NyZWVuIGFuZCBpbnN0YW5jZXMuXG5cdTIwMjIgQWRkZWQgYXV0b21hdGljIHJlZnJlc2ggZm9yIHN0YWxsZWQgcHJldmlld3MuXG5cdTIwMjIgSW1wcm92ZWQgc2Vzc2lvbiBzdGF0dXMgbWVzc2FnZXMuXG5cdTIwMjIgQWRkZWQgcHJldmlldyByZWNvdmVyeSBsb2dzIHRvIHRoZSBkYXNoYm9hcmQuXG5cdTIwMjIgRml4ZWQgYSBwcmV2aWV3IHJlZnJlc2ggcmFjZSB3aGVuIHN0b3BwaW5nIGFuIGluc3RhbmNlLiJ9",
-  "signature": "AaVR18YKhFGbg9xubqipy7nUL3JgY3dKhDYtg9XvADCj9h3Wcm_XuAOsi2jcd6ioCco7ftp-v0D4p_lwOr_1lw",
-  "version": "1.3.25",
-  "latestVersion": "1.3.25",
+  "payload": "eyJzZXF1ZW5jZSI6MTMsImlzc3VlZEF0IjoxNzkxMjAxOTQxLCJleHBpcmVzQXQiOjE3OTE4MDY3NDEsImxhdGVzdFZlcnNpb24iOiIxLjMuMjYiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4yNCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEltcHJvdmVkIHByZXZpZXcgcmVjb3Zlcnkgd2hlbiBzd2l0Y2hpbmcgYmV0d2VlbiBmdWxsc2NyZWVuIGFuZCBTZXNzaW9ucy5cblx1MjAyMiBSZXRyeSBwcmV2aWV3IG5vdyBjaGVja3MgZm9yIGEgZnJlc2ggZnJhbWUgYW5kIG9mZmVycyBhIHJlc3RhcnQgaWYgcmVjb3ZlcnkgZmFpbHMuXG5cdTIwMjIgQWRkZWQgbGF1bmNoIHNwYWNpbmcgdG8gcmVkdWNlIHNpbXVsdGFuZW91cyBzdGFydHVwIGxvYWQuXG5cdTIwMjIgSW1wcm92ZWQgcm90YXRpb24gaXNvbGF0aW9uIGFuZCBrZXlib2FyZCBoYW5kbGluZy5cblx1MjAyMiBFbmxhcmdlZCB0aGUgQmFjayBidXR0b24gYW5kIGltcHJvdmVkIHNlc3Npb24gc3RvcHBpbmcuXG5cdTIwMjIgQWRkZWQgcHJldmlldyByZWNvdmVyeSBhbmQgbGF1bmNoIGV2ZW50cyB0byBkYXNoYm9hcmQgbG9ncy4ifQ",
+  "signature": "dSX2PzoRYsrLrDsC87fvLkGQma8SYY7uFar_-E2i-p8j8aRAFlIpOqSuP3Qt2-4QKpxx5uOf_8Gei370LfbM7Q",
+  "version": "1.3.26",
+  "latestVersion": "1.3.26",
   "minimumSupportedVersion": "1.3.24",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
-  "notes": "• Improved preview restoration when switching between fullscreen and instances.\n• Added automatic refresh for stalled previews.\n• Improved session status messages.\n• Added preview recovery logs to the dashboard.\n• Fixed a preview refresh race when stopping an instance."
+  "notes": "• Improved preview recovery when switching between fullscreen and Sessions.\n• Retry preview now checks for a fresh frame and offers a restart if recovery fails.\n• Added launch spacing to reduce simultaneous startup load.\n• Improved rotation isolation and keyboard handling.\n• Enlarged the Back button and improved session stopping.\n• Added preview recovery and launch events to dashboard logs."
 }

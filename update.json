@@ -1,10 +1,10 @@
 {
   "keyId": "eys-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6MTMsImlzc3VlZEF0IjoxNzkxMjAxOTQxLCJleHBpcmVzQXQiOjE3OTE4MDY3NDEsImxhdGVzdFZlcnNpb24iOiIxLjMuMjYiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4yNCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEltcHJvdmVkIHByZXZpZXcgcmVjb3Zlcnkgd2hlbiBzd2l0Y2hpbmcgYmV0d2VlbiBmdWxsc2NyZWVuIGFuZCBTZXNzaW9ucy5cblx1MjAyMiBSZXRyeSBwcmV2aWV3IG5vdyBjaGVja3MgZm9yIGEgZnJlc2ggZnJhbWUgYW5kIG9mZmVycyBhIHJlc3RhcnQgaWYgcmVjb3ZlcnkgZmFpbHMuXG5cdTIwMjIgQWRkZWQgbGF1bmNoIHNwYWNpbmcgdG8gcmVkdWNlIHNpbXVsdGFuZW91cyBzdGFydHVwIGxvYWQuXG5cdTIwMjIgSW1wcm92ZWQgcm90YXRpb24gaXNvbGF0aW9uIGFuZCBrZXlib2FyZCBoYW5kbGluZy5cblx1MjAyMiBFbmxhcmdlZCB0aGUgQmFjayBidXR0b24gYW5kIGltcHJvdmVkIHNlc3Npb24gc3RvcHBpbmcuXG5cdTIwMjIgQWRkZWQgcHJldmlldyByZWNvdmVyeSBhbmQgbGF1bmNoIGV2ZW50cyB0byBkYXNoYm9hcmQgbG9ncy4ifQ",
-  "signature": "dSX2PzoRYsrLrDsC87fvLkGQma8SYY7uFar_-E2i-p8j8aRAFlIpOqSuP3Qt2-4QKpxx5uOf_8Gei370LfbM7Q",
-  "version": "1.3.26",
-  "latestVersion": "1.3.26",
-  "minimumSupportedVersion": "1.3.24",
+  "payload": "eyJzZXF1ZW5jZSI6MTQsImlzc3VlZEF0IjoxNzkxMjU5NjA2LCJleHBpcmVzQXQiOjE3OTE4NjQ0MDYsImxhdGVzdFZlcnNpb24iOiIxLjMuMzMiLCJtaW5pbXVtU3VwcG9ydGVkVmVyc2lvbiI6IjEuMy4yNiIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9kaXNjb3JkLmdnL0VzMnpqZ01FUSIsIm5vdGVzIjoiXHUyMDIyIEZpeGVkIGEgc3RhcnR1cCBsb2NrIGNvbmZsaWN0IHdoZW4gb3BlbmluZyBhZGRpdGlvbmFsIGNsb25lcy5cblx1MjAyMiBJbXByb3ZlZCBjYXB0dXJlIHJlc2l6aW5nIHdoZW4gc3dpdGNoaW5nIGJldHdlZW4gcG9ydHJhaXQgYW5kIGxhbmRzY2FwZS5cblx1MjAyMiBVcGRhdGVkIFJldHJ5IHByZXZpZXcgdG8gcmVwYWlyIHRoZSBhZmZlY3RlZCBjYXB0dXJlLlxuXHUyMDIyIEltcHJvdmVkIGFjdGl2aXR5IHNlbGVjdGlvbiBkdXJpbmcgbG9naW4gYW5kIHZlcmlmaWNhdGlvbi5cblx1MjAyMiBBZGRlZCBjbGVhcmVyIHNlc3Npb24gc3RhdHVzIGFuZCBibGFuay1sb2dpbiBkaWFnbm9zdGljcy4ifQ",
+  "signature": "osjiL-_04iWm5l6XbVxoc819PhkSGMPcQos6ElQuwaILRQrG-G1Z0osO3qFzXPaKZ4VJHYrE-kHREa0QGc2PXA",
+  "version": "1.3.33",
+  "latestVersion": "1.3.33",
+  "minimumSupportedVersion": "1.3.26",
   "downloadUrl": "https://discord.gg/Es2zjgMEQ",
-  "notes": "• Improved preview recovery when switching between fullscreen and Sessions.\n• Retry preview now checks for a fresh frame and offers a restart if recovery fails.\n• Added launch spacing to reduce simultaneous startup load.\n• Improved rotation isolation and keyboard handling.\n• Enlarged the Back button and improved session stopping.\n• Added preview recovery and launch events to dashboard logs."
+  "notes": "• Fixed a startup lock conflict when opening additional clones.\n• Improved capture resizing when switching between portrait and landscape.\n• Updated Retry preview to repair the affected capture.\n• Improved activity selection during login and verification.\n• Added clearer session status and blank-login diagnostics."
 }
